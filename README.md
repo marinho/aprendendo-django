@@ -38,7 +38,7 @@ de neon. Em Katara, obviamente.
   estava atendendo esta manhã);
 - Trabalhar sobre algo que você conhece bem as regras de negócio te libera os neurônios para se
   preocupar com o framework;
-- Conceitos são mais importantes que ferramentas (eles ficam pra sempre);
+- Conceitos são mais importantes que ferramentas (eles ficam pra sempre, ou pelo menos ficam por mais tempo);
 - Metáforas facilitam a compreensão (ainda mais as lisérgicas);
 - Resumos finais reforçam a memorização;
 - Programadores ganham para resolver problemas e corrigir erros, e a contornar alguns de fabricação
@@ -63,6 +63,7 @@ tenha em mente que as mudanças principais foram:
 - Novos recursos para o {% if %}
 - Aplicação de Gis
 - jQuery no Admin
+- Natural keys
 
 ### Versão 1.3
 
@@ -81,6 +82,7 @@ Assista à palestrad o Alex Gaynor sobre isso
 - Talvez algo sobre HTML5 no Admin
 - FormWizard refatorado
 - Proteção contra ClickJacking
+- Bulk inserts
 
 Observação: as listas acima foram feitas de cabeça, por favor procure as release notes de cada
 versão para certificar e corrigir eventuais enganos.
