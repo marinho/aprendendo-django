@@ -102,3 +102,18 @@ A forma mais eficaz de contribuir é:
 - Faça seus ajustes, commit e push
 - Envie um Pull Request ao autor do fork central
 
+### Contribuidores
+
+- Autoria: Marinho Brandão
+- Ilustrações: João Mazzia
+- Testes e sugestões: Miltinho Brandão
+- Revisão: Mychell Rodrigues
+- Inspiração: Letícia, Tarsila e Linus
+- Lanche: Bohemia long neck
+
+## Licença
+
+A edição 1 foi lançada sob Creative Commons com bloqueio para derivados e exploração comercial
+sem a autorização do autor. Isso permanecerá ainda por algum tempo para garantir a qualidade
+deste, mas há a possibilidade de permitir derivadas no futuro.
+
